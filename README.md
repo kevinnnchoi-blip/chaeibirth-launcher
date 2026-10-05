@@ -1,6 +1,8 @@
-# 채이 생일 런처 1.0.0 — 리허설 배포
+# 채이 생일 런처 1.0.1 — 리허설 배포
 
 전용 설치 폴더와 공식 Minecraft Launcher 프로필을 사용하는 Windows 설치기입니다.
+
+큰 생일 케이크 뒤에서 짧은 손끝을 얹은 채굴이 아이콘과 생일 웹 디자인을 적용했습니다. 표시 이름은 채굴이로 통일했습니다.
 
 - Minecraft Java 26.3 / Fabric 0.19.5
 - Sodium, Iris, Lithium, FerriteCore, ImmediatelyFast, Entity Culling, Fabric API
